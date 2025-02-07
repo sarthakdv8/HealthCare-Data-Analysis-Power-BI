@@ -22,7 +22,12 @@ This is healthcare data-person watilist:
 
 ![image](https://github.com/user-attachments/assets/ebe13915-810e-4684-b6d7-178e1b4ba4ff)
 
+##🔍 Key Insights
+✅ Most of the patients are waiting for 18+ months.
 
+✅ Top 2 Speciality by waitlist are Otolaryngology and Paed Orthopaedic
+
+✅ Waitlist has more Outpatients than Inpatients.
 
 ## 🔗 Connect & Contribute
 📌 LinkedIn : www.linkedin.com/in/devsarthak24
