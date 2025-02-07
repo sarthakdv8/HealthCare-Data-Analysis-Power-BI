@@ -3,8 +3,11 @@ HealthCare-Data-Analysis using Power-BI
 
 ## 🚀 Overview
 This project demonstrates data analysis and visualization using Power BI. The dashboard provides key insights, trends, and business intelligence based on the dataset.
+
 This is healthcare data-person watilist:
+
 	Inpatient-A person who stays in hospital during treatment.
+ 
 	Outpatient-A person who do recieve medical treatment without being admitted to hospital.
 
 🔹 Tool Used: Microsoft Power BI
